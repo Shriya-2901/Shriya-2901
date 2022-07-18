@@ -5,7 +5,7 @@
 
 <div>
 <table>
-<h2>The Dank Coder</h2>
+<h2>The Geeky Coder</h2>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
